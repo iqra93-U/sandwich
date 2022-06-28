@@ -1,0 +1,11 @@
+La liste des ingrédients d’un burger :
+
+Steak
+
+Salade
+
+Tomate
+
+Cornichon
+
+Fromage
